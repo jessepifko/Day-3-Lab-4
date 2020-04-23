@@ -1,0 +1,13 @@
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.csprojAssemblyReference.cache
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.AssemblyInfoInputs.cache
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.AssemblyInfo.cs
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.exe
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.deps.json
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.runtimeconfig.json
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.runtimeconfig.dev.json
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.dll
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\bin\Debug\netcoreapp3.1\Lab 4 on Day 3.pdb
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.dll
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.pdb
+C:\Users\Jesse\Documents\Grand Circus\Day 3\Lab 4 on Day 3\Lab 4 on Day 3\obj\Debug\netcoreapp3.1\Lab 4 on Day 3.genruntimeconfig.cache
